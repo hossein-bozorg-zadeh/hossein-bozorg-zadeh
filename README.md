@@ -32,19 +32,7 @@
 
 ###
 
-<p align="left">📚I am correctly learning UI/UX</p>
-
-###
-
-<h3 align="left">🛠 tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+<p align="left">📚I am correctly learning AI and Automation </p>
 
 ###
 
