@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hey, I'm Hossein 👋</h1>
   <p>
-    I build <b>Telegram bots</b> and <b>developer tools</b> — Python, TypeScript, Cloudflare&nbsp;Workers.
+    I build <b>Telegram bots</b>, <b>developer tools</b> and <b>fully client-side web apps</b> —
+    Python, TypeScript, HTML/JS, Cloudflare&nbsp;Workers.
     Currently learning AI and automation.
   </p>
   <p>
@@ -27,6 +28,7 @@
 - 🔔 **[GRMTB](https://github.com/hossein-bozorg-zadeh/GRMTB)** — GitHub/GitLab release monitor Telegram bot with per-repo intervals, asset downloads and an admin panel · `Python`
 - 📥 **[tg-dl](https://github.com/hossein-bozorg-zadeh/tg-dl)** — full download-manager bot on any Linux server: aria2 + yt-dlp + Mega, 2 GiB uploads, 7-day channel cache · `Python`
 - 🎬 **[subsource-telegram-bot](https://github.com/hossein-bozorg-zadeh/subsource-telegram-bot)** — subtitle search & download bot on Cloudflare Workers + D1, with filters, previews and a full admin panel · `TypeScript`
+- 🧾 **[invoice-manager](https://github.com/hossein-bozorg-zadeh/invoice-manager)** — Persian (RTL) invoice & finance manager in a single HTML file: dashboard, invoices with shareable payment links, cheques/payments tracker, accounting ledger, CSV export & backup import — all client-side in localStorage · [`HTML/JS`](https://hossein-bozorg-zadeh.github.io/invoice-manager/) (live demo)
 - 🌐 **[hossein-bozorg-zadeh.github.io](https://github.com/hossein-bozorg-zadeh/hossein-bozorg-zadeh.github.io)** — this portfolio, which keeps itself in sync with my pinned repos · `HTML/JS`
 
 ###
@@ -36,6 +38,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5"  />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" height="25" alt="cloudflare"  />
   <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" height="25" alt="telegram"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker"  />
