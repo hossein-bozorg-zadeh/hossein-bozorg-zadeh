@@ -25,6 +25,7 @@
 - 📥 **[tg-dl](https://github.com/hossein-bozorg-zadeh/tg-dl)** — full download-manager bot on any Linux server: aria2 + yt-dlp + Mega, 2 GiB uploads, 7-day channel cache · `Python`
 - 🎬 **[subsource-telegram-bot](https://github.com/hossein-bozorg-zadeh/subsource-telegram-bot)** — subtitle search & download bot on Cloudflare Workers + D1, with filters, previews and a full admin panel · `TypeScript`
 - 🧾 **[invoice-manager](https://github.com/hossein-bozorg-zadeh/invoice-manager)** — Persian (RTL) invoice & finance manager in a single HTML file: dashboard, invoices with shareable payment links, cheques/payments tracker, accounting ledger, CSV export & backup import — all client-side in localStorage · [`HTML/JS`](https://hossein-bozorg-zadeh.github.io/invoice-manager/) (live demo)
+- 🌌 **[wall-vault](https://github.com/hossein-bozorg-zadeh/wall-vault)** — single-file wallpaper web app: multi-source 4K backgrounds, instant search, favorites, dominant colors and a lock-screen preview with exact-crop export — all client-side, no server · [`HTML/JS`](https://hossein-bozorg-zadeh.github.io/wall-vault/) (live demo)
 - 🌐 **[hossein-bozorg-zadeh.github.io](https://github.com/hossein-bozorg-zadeh/hossein-bozorg-zadeh.github.io)** — this portfolio, which keeps itself in sync with my pinned repos · `HTML/JS`
 
 ###
